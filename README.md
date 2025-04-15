@@ -5,5 +5,3 @@ Contents:
 report.pdf: Written report answering all tasks in the assignment.
 
 code/: Folder containing all Python scripts and notebooks.
-
-code.zip: Compressed version of the code folder, ready for submission.
